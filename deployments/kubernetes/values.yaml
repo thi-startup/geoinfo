@@ -26,7 +26,7 @@ batch:
     # password to set when creating he crest_admin user
     adminPassword: ""
     # password to set when creating the crest_api user
-    apiPassword: "v"
+    apiPassword: ""
 
 # values for the bitnami/postgresql helm package
 postgresql:
